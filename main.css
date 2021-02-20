@@ -80,8 +80,6 @@ h1 {
     text-shadow: 1px 4px 4px rgba(1, 1, 1, 0.25);
 }
 .sign-up-box {
-    background-color: #0CF8B6;
-    background-color: rgba(12, 248, 182, 0.7);
     grid-column-start: 1;
     grid-row-end:2;
     grid-row-start:2;
